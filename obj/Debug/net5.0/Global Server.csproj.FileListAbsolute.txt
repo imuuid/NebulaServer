@@ -1,0 +1,33 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NullPointer Industries\Global Server\Global Server\bin\Debug\net5.0\Global Server.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NullPointer Industries\Global Server\Global Server\bin\Debug\net5.0\Global Server.deps.json
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NullPointer Industries\Global Server\Global Server\bin\Debug\net5.0\Global Server.runtimeconfig.json
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NullPointer Industries\Global Server\Global Server\bin\Debug\net5.0\Global Server.runtimeconfig.dev.json
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NullPointer Industries\Global Server\Global Server\bin\Debug\net5.0\Global Server.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NullPointer Industries\Global Server\Global Server\bin\Debug\net5.0\ref\Global Server.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NullPointer Industries\Global Server\Global Server\bin\Debug\net5.0\Global Server.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NullPointer Industries\Global Server\Global Server\obj\Debug\net5.0\Global Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NullPointer Industries\Global Server\Global Server\obj\Debug\net5.0\Global Server.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NullPointer Industries\Global Server\Global Server\obj\Debug\net5.0\Global Server.AssemblyInfo.cs
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NullPointer Industries\Global Server\Global Server\obj\Debug\net5.0\Global Server.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NullPointer Industries\Global Server\Global Server\obj\Debug\net5.0\Global Server.csproj.CopyComplete
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NullPointer Industries\Global Server\Global Server\obj\Debug\net5.0\Global Server.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NullPointer Industries\Global Server\Global Server\obj\Debug\net5.0\ref\Global Server.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NullPointer Industries\Global Server\Global Server\obj\Debug\net5.0\Global Server.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NullPointer Industries\Global Server\Global Server\obj\Debug\net5.0\Global Server.genruntimeconfig.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Server\Global Server\bin\Debug\net5.0\Global Server.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Server\Global Server\bin\Debug\net5.0\Global Server.deps.json
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Server\Global Server\bin\Debug\net5.0\Global Server.runtimeconfig.json
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Server\Global Server\bin\Debug\net5.0\Global Server.runtimeconfig.dev.json
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Server\Global Server\bin\Debug\net5.0\Global Server.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Server\Global Server\bin\Debug\net5.0\ref\Global Server.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Server\Global Server\bin\Debug\net5.0\Global Server.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Server\Global Server\obj\Debug\net5.0\Global Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Server\Global Server\obj\Debug\net5.0\Global Server.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Server\Global Server\obj\Debug\net5.0\Global Server.AssemblyInfo.cs
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Server\Global Server\obj\Debug\net5.0\Global Server.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Server\Global Server\obj\Debug\net5.0\Global Server.csproj.CopyComplete
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Server\Global Server\obj\Debug\net5.0\Global Server.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Server\Global Server\obj\Debug\net5.0\ref\Global Server.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Server\Global Server\obj\Debug\net5.0\Global Server.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Server\Global Server\obj\Debug\net5.0\Global Server.genruntimeconfig.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Server\Global Server\obj\Debug\net5.0\Global Server.csproj.AssemblyReference.cache
